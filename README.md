@@ -1,74 +1,85 @@
-# Harsh's Python-Programs Repository
+# 💻 Harsh's Python-Programs Repository
 
-![View Count](https://komarev.com/ghpvc/?username=harsh-python-programs&color=brightgreen&style=flat-square)
-
----
+![C](https://img.shields.io/badge/Python-Learning-green?style=for-the-badge&logo=python)
+![Status](https://img.shields.io/badge/Status-LEARNING-brightgreen?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge)
 
 ## 👨‍💻 About Me
 
-Hello! I'm Harsh Giri, a passionate learner diving into the world of Python programming. This repository documents my journey and progress in mastering Python.
+Hello! I'm Harsh Giri, a passionate learner diving into the world of Python programming. This repository documents my journey and progress as I explore the powerful features of Python.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/harshgiri/) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/harshgiri/) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen)](https://www.hackerrank.com/harshgiri/)
+## 🔗 Connect With Me
 
----
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/yourusername)
+[![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/yourusername)
 
-## 📖 About This Repository
+## 📚 About This Repository
 
-Welcome to my Python-Programs repository! Here, I document my exciting journey of learning the Python language. You'll find a collection of programs I've written as I explore various concepts and techniques in Python.
+Welcome to my Python-Programs repository! Here, I document my exciting journey of learning Python programming. You'll find a collection of programs I've written as I explore various concepts and techniques.
 
-> "The best way to learn is by doing." - Pythonic Wisdom
-
----
+> "The best way to learn a programming language is by writing programs in it." - Dennis Ritchie
 
 ## 📂 Repository Contents
-
 <details>
 <summary>Click to expand</summary>
 
-- Beginner Programs: Covering loops, conditionals, and data types.
-- Intermediate Challenges: Projects involving file handling, data structures, and APIs.
-- Fun Projects: Creative ideas like games and automation scripts.
-
+```
+python-programs/
+├── basics/
+│   ├── variables/
+│   ├── data_types/
+│   ├── loops/
+│   └── functions/
+├── intermediate/
+│   ├── oop/
+│   ├── file_handling/
+│   └── error_handling/
+├── projects/
+└── practice/
+```
 </details>
 
----
-
-## ✨ Sample Code
+## 💻 Sample Code
 
 ```python
-# Welcome to Harsh's Python Journey
-print("Hello, I'm Harsh Giri!")
-print("Welcome to my Python programming journey!")
-```
+def welcome_message():
+    print("=" * 50)
+    print("Hello, I'm Harsh Giri!")
+    print("Welcome to my Python programming journey!")
+    print("=" * 50)
 
----
+if __name__ == "__main__":
+    welcome_message()
+```
 
 ## 📚 Learning Resources
 
 Here are some resources I've found helpful in my Python programming journey:
 
-| Resource             | Description                                     |
-|----------------------|-------------------------------------------------|
-| [Python.org](https://www.python.org/) | Official Python documentation and tutorials |
-| [W3Schools](https://www.w3schools.com/python/) | Beginner-friendly Python tutorials        |
-| [Real Python](https://realpython.com/) | Advanced guides and tutorials             |
+| Resource | Description |
+|----------|-------------|
+| [Python.org](https://python.org) | Official Python documentation |
+| [Real Python](https://realpython.com) | In-depth Python tutorials |
+| [GeeksforGeeks Python](https://www.geeksforgeeks.org/python-programming-language/) | Python programming articles and problems |
 
----
-
-## 🤝 Contribution
+## 💝 Contribution
 
 While this repository primarily serves as my personal learning journal, I welcome any suggestions, improvements, or discussions about the programs. Feel free to open an issue or submit a pull request!
 
----
-
 ## 📊 My Coding Stats
 
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=harshgiri&layout=compact&theme=radical)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Noto%20Sans)](https://leetcode.com/yourusername)
 
 ---
 
-### 🌟 Thank You for Visiting!
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/python-programs?style=social)](https://github.com/yourusername/python-programs/stargazers)
 
 ⭐ Star this repo if you find it helpful!
 
 Made with ❤️ by Harsh Giri
+
+</div>
