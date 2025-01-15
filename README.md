@@ -2,17 +2,16 @@
 
 ![C](https://img.shields.io/badge/Python-Learning-green?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-LEARNING-brightgreen?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge)
-
+![P
 ## 👨‍💻 About Me
 
 Hello! I'm Harsh Giri, a passionate learner diving into the world of Python programming. This repository documents my journey and progress as I explore the powerful features of Python.
 
 ## 🔗 Connect With Me
 
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/yourusername)
-[![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/yourusername)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harsh-giri-92b5032a4)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Harsh-Giri/)
+[![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/giri_harsh)
 
 ## 📚 About This Repository
 
