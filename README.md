@@ -2,7 +2,7 @@
 
 ![C](https://img.shields.io/badge/Python-Learning-green?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-LEARNING-brightgreen?style=for-the-badge)
-![P
+
 ## 👨‍💻 About Me
 
 Hello! I'm Harsh Giri, a passionate learner diving into the world of Python programming. This repository documents my journey and progress as I explore the powerful features of Python.
