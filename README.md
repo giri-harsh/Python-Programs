@@ -68,7 +68,7 @@ While this repository primarily serves as my personal learning journal, I welcom
 
 ## 📊 My Coding Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Noto%20Sans)](https://leetcode.com/yourusername)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Noto%20Sans)](https://leetcode.com/u/Harsh-Giri/)
 
 ---
 
