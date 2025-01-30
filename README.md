@@ -66,16 +66,11 @@ Here are some resources I've found helpful in my Python programming journey:
 
 While this repository primarily serves as my personal learning journal, I welcome any suggestions, improvements, or discussions about the programs. Feel free to open an issue or submit a pull request!
 
-## 📊 My Coding Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Noto%20Sans)](https://leetcode.com/u/Harsh-Giri/)
 
 ---
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/python-programs?style=social)](https://github.com/yourusername/python-programs/stargazers)
 
 ⭐ Star this repo if you find it helpful!
 
